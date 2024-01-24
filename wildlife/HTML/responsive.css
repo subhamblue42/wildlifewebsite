@@ -1,0 +1,33 @@
+@media screen and (max-width: 1199px) {
+    
+    .headbar ul li
+    {
+        margin: 0 10px;
+    font-size: 15px;
+    }
+    .bannersec h1{
+        font-size: 35px; 
+    }
+
+}
+
+@media screen and (max-width: 1024px) {
+
+
+
+}
+@media screen and (max-width: 991px) {
+
+
+
+}
+@media screen and (max-width: 767px) {
+
+
+
+}
+@media screen and (max-width: 479px) {
+
+
+
+}
